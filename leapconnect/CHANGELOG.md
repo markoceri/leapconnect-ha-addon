@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.3
+
+- Fix runtime dependency resolution failure by calling uvicorn directly from venv instead of `uv run`
+
 ## 0.4.2
 
 - Fix `s6-overlay-suexec: fatal: can only run as pid 1` by adding `init: false` to config
