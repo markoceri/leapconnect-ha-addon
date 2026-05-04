@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+- Fix base image tag: use `3.13-alpine3.21` format (old `3.13` tag no longer exists on ghcr.io)
+
 ## 0.4.0
 
 - Initial Home Assistant add-on release
