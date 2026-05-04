@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.2
+
+- Fix `s6-overlay-suexec: fatal: can only run as pid 1` by adding `init: false` to config
+
 ## 0.4.1
 
 - Fix base image tag: use `3.13-alpine3.21` format (old `3.13` tag no longer exists on ghcr.io)
