@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.4
+
+- Upgrade to LeapConnect v0.4.1 (includes ingress-compatible relative paths)
+
 ## 0.4.3
 
 - Fix runtime dependency resolution failure by calling uvicorn directly from venv instead of `uv run`
