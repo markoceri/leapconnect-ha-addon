@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.2
+
+- Upgrade to LeapConnect v0.5.2
+
 ## 0.5.1
 
 - Upgrade to LeapConnect v0.5.1
