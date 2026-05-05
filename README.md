@@ -14,3 +14,7 @@ A full-featured web dashboard for Leapmotor vehicles with Home Assistant MQTT in
 2. Click the **⋮** menu (top right) → **Repositories**
 3. Add this URL: `https://github.com/markoceri/leapconnect-ha-addon`
 4. Find **LeapConnect** in the store and click **Install**
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE).
