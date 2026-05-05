@@ -6,7 +6,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/markoceri/leapconnect-ha-addon)](https://github.com/markoceri/leapconnect-ha-addon/issues)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/markoceri)
 
-[![Open your Home Assistant instance and show the dashboard of an add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=889a78de_leapconnect&repository_url=https%3A%2F%2Fgithub.com%2Fmarkoceri%2Fleapconnect-ha-addon)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmarkoceri%2Fleapconnect-ha-addon)
 
 ## Add-ons
 
