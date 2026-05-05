@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.0
+
+- Upgrade to LeapConnect v0.5.0 (new features and bug fixes)
+
 ## 0.4.4
 
 - Upgrade to LeapConnect v0.4.1 (includes ingress-compatible relative paths)
