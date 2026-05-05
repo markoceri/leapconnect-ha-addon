@@ -1,5 +1,11 @@
 # LeapConnect Home Assistant Add-on Repository
 
+[![GitHub License](https://img.shields.io/github/license/markoceri/leapconnect-ha-addon)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/markoceri/leapconnect-ha-addon)](https://github.com/markoceri/leapconnect-ha-addon/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/markoceri/leapconnect-ha-addon)](https://github.com/markoceri/leapconnect-ha-addon/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/markoceri/leapconnect-ha-addon)](https://github.com/markoceri/leapconnect-ha-addon/issues)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/markoceri)
+
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmarkoceri%2Fleapconnect-ha-addon)
 
 ## Add-ons
