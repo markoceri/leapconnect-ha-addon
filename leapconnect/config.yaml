@@ -1,6 +1,6 @@
 name: "LeapConnect"
 description: "Web dashboard for Leapmotor vehicles with MQTT Home Assistant integration"
-version: "0.6.0"
+version: "0.6.1"
 slug: "leapconnect"
 url: "https://github.com/markoceri/leapconnect"
 arch:
