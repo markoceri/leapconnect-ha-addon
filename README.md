@@ -10,7 +10,7 @@
 
 ## Add-ons
 
-### [LeapConnect](./leapconnect)
+### [LeapConnect](https://github.com/markoceri/leapconnect)
 
 A full-featured web dashboard for Leapmotor vehicles with Home Assistant MQTT integration.
 
