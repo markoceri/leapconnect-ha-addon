@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.3
+
+- Upgrade to LeapConnect v0.7.3
+
 ## 0.7.2
 
 - Upgrade to LeapConnect v0.7.2
