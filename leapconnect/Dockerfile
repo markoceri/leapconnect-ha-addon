@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-ARG LEAPCONNECT_VERSION=0.7.3
+ARG LEAPCONNECT_VERSION=0.8.0
 
 # ---- Stage 1: Build Vue.js frontend ----
 FROM node:22-alpine AS frontend-build
