@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.1
+
+- Upgrade to LeapConnect v0.8.1
+
 ## 0.8.0
 
 - Upgrade to LeapConnect v0.8.0
