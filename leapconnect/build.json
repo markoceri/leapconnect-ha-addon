@@ -4,6 +4,6 @@
     "amd64": "ghcr.io/home-assistant/amd64-base-python:3.13-alpine3.21"
   },
   "args": {
-    "LEAPCONNECT_VERSION": "0.9.0"
+    "LEAPCONNECT_VERSION": "0.9.1"
   }
 }
