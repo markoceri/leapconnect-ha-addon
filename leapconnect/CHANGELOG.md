@@ -3,6 +3,12 @@
 ## 0.10.0
 
 - Upgrade to LeapConnect v0.10.0
+- Fix add-on build for the v0.10.0 package layout: copy the `leapconnect/`
+  package, `alembic.ini` and `migrations/` instead of the removed
+  `main.py`/`models.py`/`schemas.py`/`persistence`/`services` files
+- Start the app via `leapconnect.api.app:app` and use `DB_PATH`
+  (`/data/leapconnect.db`); the legacy `history.db` is auto-migrated on first
+  start
 
 ## 0.9.1
 

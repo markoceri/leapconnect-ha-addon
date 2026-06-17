@@ -35,8 +35,8 @@ RUN cp /src/pyproject.toml /src/uv.lock . \
     && uv sync --frozen --no-dev --no-editable
 
 # Copy application code
-RUN cp /src/main.py /src/models.py /src/schemas.py /src/alembic.ini . \
-    && cp -r /src/persistence /src/services /src/migrations .
+RUN cp /src/alembic.ini . \
+    && cp -r /src/leapconnect /src/migrations .
 
 # Copy built frontend
 COPY --from=frontend-build /src/frontend/dist ./frontend/dist

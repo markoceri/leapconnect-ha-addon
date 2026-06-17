@@ -25,5 +25,5 @@ options:
 schema:
   log_level: list(trace|debug|info|warning|error|critical)
 environment:
-  HISTORY_DB_PATH: /data/history.db
+  DB_PATH: /data/leapconnect.db
   DATA_DIR: /data
